@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">🤖 AI Developer</h1>
 <h1 align="center">Hi 👋, I'm Shivangi Bamola</h1>
 <h3 align="center">🚀 AI-DS Student | AI & Tech Enthusiast</h3>
